@@ -65,7 +65,6 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
                     self.bitcoinPriceLabel.text = "Connection Issues"
                 }
             }
-
     }
 //
 //    
